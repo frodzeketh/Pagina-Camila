@@ -6,6 +6,7 @@
   --darker-gray: #949493;
   --button-hover: #ea615d;
   --button: #f2403a;
+  --blanco: #8FC7E2;
 }
 
 * {
@@ -30,7 +31,7 @@ h4 {
 }
 
 a {
-  color: var(--dark-gray);
+  color: var(--blanco);
   text-decoration: none;
   font-family: "Roboto", sans-serif;
   
@@ -69,6 +70,7 @@ input {
 }
 
 .logo {
+  
   width: 130px;
   height: 100%;
 }
@@ -94,7 +96,7 @@ input {
   margin: auto;
   overflow: hidden;
   padding: 0 30px;
-  background-image: linear-gradient(to right, #FEA1C2, #FC8DB3, #F782AB, #F16D96, #EC6993, #ED5987, #F55D8E);
+  background-image: linear-gradient(to right, #F38979, #FDE56B, #D466BC);
 }
 
 .navbar .container {
