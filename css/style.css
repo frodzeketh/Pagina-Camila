@@ -88,12 +88,13 @@ input {
 }
 
 .container {
+    padding: 10px;
   width: 100%;
   height: 120px;
   margin: auto;
   overflow: hidden;
   padding: 0 30px;
-  background-color: pink;
+  background-image: linear-gradient(to right, #F4E5D0, #FE9B62, #FEA129);
 }
 
 .navbar .container {
